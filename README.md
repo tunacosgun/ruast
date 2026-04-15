@@ -204,3 +204,9 @@ This library is not directly related to the Rust compiler AST, and ASTs built wi
 ## License
 
 This project is licensed under either of [Apache license version 2.0](./LICENSE-APACHE) or [MIT license](./LICENSE-MIT) at your option.
+
+
+## Contributors
+
+- Tunahan Coşgun — <info@tunahancosgun.dev>
+- Duygu Durmuş — <duygudurmus12@gmail.com>
