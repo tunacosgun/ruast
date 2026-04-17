@@ -94,7 +94,7 @@ assert_snapshot!(add, @"-1 + -2");
 
 ### Building struct, enum, trait and impl
 
-The source code is available in the [`examples`](https://github.com/mtshiba/ruast/tree/main/examples) directory.
+The source code is available in the [`examples`](https://github.com/tunacosgun/ruast/tree/main/examples) directory.
 
 ```rust
 use ruast::*;
@@ -162,7 +162,7 @@ println!("{krate}");
 println!("{tokens}");
 ```
 
-You can also find examples on how to create a proc macro using this crate in [`examples/proc_macro_example`](https://github.com/mtshiba/ruast/tree/main/examples/proc_macro_example).
+You can also find examples on how to create a proc macro using this crate in [`examples/proc_macro_example`](https://github.com/tunacosgun/ruast/tree/main/examples/proc_macro_example).
 
 ### Fuzzing
 
